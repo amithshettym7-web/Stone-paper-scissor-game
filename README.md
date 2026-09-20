@@ -56,3 +56,6 @@ GitHub: https://github.com/amithshettym7-web
 
 ## 📄 License
 This project is open source and available for learning and educational purposes.
+
+##Can access it using link
+https://amithshettym7-web.github.io/Stone-paper-scissor-game/
